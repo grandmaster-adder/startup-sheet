@@ -1,5 +1,4 @@
-# startup-sheet
-The Startup Sheet
+#The Startup Sheet
 
 ~An attempt at collecting resources~
 
