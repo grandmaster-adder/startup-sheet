@@ -1,6 +1,4 @@
-#startup-sheet
-
-The Startup Sheet
+**The Startup Sheet**
 
 A collection of resources for budding entrepreneurs
 
