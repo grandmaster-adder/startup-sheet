@@ -1,5 +1,7 @@
-#The Startup Sheet
+#startup-sheet
 
-~An attempt at collecting resources~
+The Startup Sheet
 
-*I am not good at doing that*
+A collection of resources for budding entrepreneurs
+
+*Work in progress, thanks for your patience*
